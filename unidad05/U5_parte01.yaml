@@ -72,3 +72,5 @@ spec:
           envFrom:
             - configMapRef:
                 name: hotels-config-env
+                
+                
